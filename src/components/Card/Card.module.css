@@ -1,15 +1,52 @@
 .container {
-  display: flex;
-  /* flex-direction: row; */
-  justify-content: space-between;
-  width: 1000px;
-  height: 800px;
+  padding: 30px;
+  width: 280px;
+  height: 600px;
+  text-align: center;
   margin: 0 auto;
 }
 
-.block {
-  padding: 30px;
-  border: 1px solid black;
-  width: 400px;
-  height: 600px;
+.img {
+  width: 250px;
+  height: 200px;
+}
+
+.title {
+  color: rgb(202, 65, 65);
+}
+
+.container p {
+  color: #7f7881;
+  font-size: 18px;
+}
+
+.container span {
+  color: #7f7881;
+  font-size: 18px;
+}
+
+.container h3 {
+  color: #7f7881;
+  background-color: rgb(189, 184, 184);
+  text-align: center;
+}
+
+.btn {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(226, 99, 85);
+}
+
+.main_btn {
+  width: 160px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.shopping {
+  width: 280px;
+  height: 40px;
+  background-color: rgb(226, 99, 85);
+  margin-top: 20px;
 }

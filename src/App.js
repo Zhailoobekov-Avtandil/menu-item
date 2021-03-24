@@ -3,6 +3,7 @@ import pic1 from './images/1img.jpg'
 import pic2 from './images/2img.jpg'
 import pic3 from './images/3img.jpg'
 import pic4 from './images/4img.jpg'
+import './App.css'
 
 function App() {
 
